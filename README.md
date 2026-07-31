@@ -1,8 +1,3 @@
-Certainly — here is the complete README text you can copy into your GitHub profile `README.md` file:
-
-```md
-<div align="center">
-
 # Pramod Kokadwar
 
 **AI Engineer | Agentic AI | LangGraph | MCP | Python | FastAPI | Docker | RAG | LLM APIs | Prompt Engineering | Workflow Automation**
