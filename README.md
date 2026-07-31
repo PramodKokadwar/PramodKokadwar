@@ -1,7 +1,5 @@
-### Pramod Kokadwar
-
-**AI Engineer | Agentic AI | LangGraph | MCP | Python | FastAPI | Docker | RAG | LLM APIs | Prompt Engineering | Workflow Automation**
-
+<div align="center">
+# Pramod Kokadwar
 </div>
 
 AI Engineer with 5+ years of experience building intelligent systems, automation workflows, and production-ready applications. I focus on LLM-powered products, retrieval-augmented generation (RAG), and practical AI solutions that solve real business problems.
