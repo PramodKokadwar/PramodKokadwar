@@ -1,4 +1,4 @@
-# Pramod Kokadwar
+### Pramod Kokadwar
 
 **AI Engineer | Agentic AI | LangGraph | MCP | Python | FastAPI | Docker | RAG | LLM APIs | Prompt Engineering | Workflow Automation**
 
@@ -55,13 +55,9 @@ Text-to-SQL analytics platform that lets non-technical users query business data
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL here](https://linkedin.com/)
-- GitHub: [Add your GitHub profile link here](https://github.com/)
-- Email: [Add your email here](mailto:your@email.com)
+- Portfolio
+- LinkedIn: [https://www.linkedin.com/in/pramod-kokadwar/]
+- GitHub: [https://github.com/PramodKokadwar]
+- Email: [pramodkokadwar@gmail.com]
 
-## Profile Motto
 
-> Building intelligent systems that turn ideas into real-world impact.
-```
-
-If you want, I can also make a second version that is more **minimal**, more **ATS/recruiter friendly**, or more **visually rich with badges**.
