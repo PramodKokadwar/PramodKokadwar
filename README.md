@@ -1,5 +1,5 @@
 <div align="center">
-# Pramod Kokadwar
+##Pramod Kokadwar
 </div>
 
 AI Engineer with 5+ years of experience building intelligent systems, automation workflows, and production-ready applications. I focus on LLM-powered products, retrieval-augmented generation (RAG), and practical AI solutions that solve real business problems.
@@ -57,5 +57,5 @@ Text-to-SQL analytics platform that lets non-technical users query business data
 - LinkedIn: [https://www.linkedin.com/in/pramod-kokadwar/]
 - GitHub: [https://github.com/PramodKokadwar]
 - Email: [pramodkokadwar@gmail.com]
-
+- X : https://x.com/pramodkokadwar
 
