@@ -6,7 +6,7 @@ AI Engineer with 5+ years of experience building intelligent systems, automation
 
 ## About Me
 
-- 💼 AI Engineer with 5+ years of experience.
+- 💼 AI Engineer experienced in developing LLM applications, retrieval pipelines, and autonomous agents.
 - 🤖 Passionate about LLM applications, AI agents, and workflow automation.
 - 🐍 Strong background in Python, APIs, backend development, and scalable systems.
 - 📚 Continuously learning prompt engineering, RAG, LangGraph, and production AI architecture.
