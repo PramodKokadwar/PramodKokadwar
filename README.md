@@ -1,61 +1,79 @@
 <div align="center">
-<h1><b>Pramod Kokadwar</b></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=180&section=header&text=Hi,%20I'm%20Pramod%20Kokadwar%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20RAG%20Systems%20%7C%20AI%20Automation&descAlignY=62&descSize=17&fontAlignY=35&animation=fadeIn" alt="Pramod Kokadwar header banner" />
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+LLM+Applications;Designing+RAG+Systems;Exploring+Agentic+AI+%26+MCP" alt="Typing SVG" /></a>
+
+  <a href="https://www.linkedin.com/in/pramod-kokadwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PramodKokadwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/pramodkokadwar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:pramodkokadwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://pramod-kokadwar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-AI Engineer with 5+ years of experience building intelligent systems, automation workflows, and production-ready applications. I focus on LLM-powered products, retrieval-augmented generation (RAG), and practical AI solutions that solve real business problems.
+I build practical AI systems that connect large language models with reliable data, business workflows, and backend services. My focus includes retrieval-augmented generation, AI copilots, agentic workflows, text-to-SQL applications, and production-oriented automation.
 
-## About Me
+## 🧑‍💻 About Me
 
-- 💼 AI Engineer experienced in developing LLM applications, retrieval pipelines, and autonomous agents.
-- 🤖 Passionate about LLM applications, AI agents, and workflow automation.
-- 🐍 Strong background in Python, APIs, backend development, and scalable systems.
-- 📚 Continuously learning prompt engineering, RAG, LangGraph, and production AI architecture.
-- 🌍 Interested in building AI products that are useful, reliable, and easy to adopt.
+- 🤖 I build LLM-powered applications, retrieval pipelines, and AI copilots.
+- 🐍 I develop Python APIs and backend services for practical AI products.
+- 🔎 I work with RAG, hybrid retrieval, embeddings, prompt engineering, and guardrails.
+- 📚 I am exploring agentic AI, LangGraph, MCP, and evaluation workflows.
+- ✅ I bring a strong software testing and automation mindset to AI application quality and reliability.
 
-## Tech Stack
+## 🛠️ Technical Focus
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 - **Languages:** Python, TypeScript, JavaScript, SQL
-- **AI/ML:** LLMs, RAG, Prompt Engineering, NLP, AI Agents, LangGraph, MCP
-- **Frameworks & Tools:** FastAPI, Next.js, Docker, Git, GitHub Actions, VS Code
-- **Databases:** PostgreSQL, SQLite, ChromaDB
-- **Cloud & Platforms:** AWS, GCP, REST APIs, Linux
+- **AI/LLM:** LLM applications, RAG, embeddings, prompt engineering, NLP, AI agents, LangGraph, MCP, text-to-SQL
+- **Backend:** FastAPI, REST APIs, Next.js, SQLAlchemy
+- **Data:** PostgreSQL, SQLite, ChromaDB, BM25, Sentence-Transformers
+- **Cloud & Tools:** AWS, GCP, Docker, Linux, Git, GitHub Actions, VS Code
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### CB Nest HRMS Copilot
-Production HRMS platform that manages employee lifecycle, attendance, leave, payroll, and ticketing with a modular full-stack architecture. Created a scalable base for AI copilots and workflow automation across core HR operations.
+### [CB Nest HRMS Copilot](https://github.com/PramodKokadwar/hrms-ai-copilot)
 
-**Stack:** FastAPI, Next.js, Docker, SQLAlchemy, PostgreSQL
+A modular HRMS platform covering employee lifecycle management, attendance, leave, payroll, and ticketing. Its full-stack architecture provides a foundation for AI copilots and workflow automation across HR operations.
 
-[View repo](https://github.com/PramodKokadwar/hrms-ai-copilot)
+**Built with:** FastAPI, Next.js, Docker, SQLAlchemy, PostgreSQL
 
-### MediBot
-Production-grade RAG chatbot for healthcare teams that answers document-based queries with role-based access control and hybrid retrieval. Improved secure knowledge access by filtering sensitive content and generating context-aware answers from trusted internal sources.
+### [MediBot](https://github.com/PramodKokadwar/medibot-chatbot)
 
-**Stack:** Python, FastAPI, OpenAI API, BM25, Sentence-Transformers, SQLite
+A document-based healthcare RAG chatbot designed for secure knowledge access. It combines role-based access control, sensitive-content filtering, and hybrid retrieval to produce context-aware answers from trusted documents.
 
-[View repo](https://github.com/PramodKokadwar/medibot-chatbot)
+**Built with:** Python, FastAPI, OpenAI API, BM25, Sentence-Transformers, SQLite
 
-### QueryMind AI
-Text-to-SQL analytics platform that lets non-technical users query business data in plain English with schema-aware validation and guardrails. Enabled safer self-service analytics by converting natural language into validated SQL with read-only execution.
+### [QueryMind AI](https://github.com/PramodKokadwar/querymind-ai)
 
-**Stack:** Python, FastAPI, Claude Sonnet 5, ChromaDB, SQLite, Next.js, TypeScript
+A text-to-SQL analytics platform that allows users to query business data in natural language. It uses schema-aware validation, guardrails, and read-only execution to support safer self-service analytics.
 
-[View repo](https://github.com/PramodKokadwar/querymind-ai)
+**Built with:** Python, FastAPI, Claude Sonnet 5, ChromaDB, SQLite, Next.js, TypeScript
 
-## What I'm Working On
+## 🎯 Current Focus
 
-- Building AI copilots and intelligent workflow automation tools.
-- Designing secure RAG systems and retrieval pipelines.
-- Improving production-readiness for AI applications.
-- Exploring agentic AI, prompt engineering, and evaluation workflows.
-- Sharing practical AI engineering learnings through projects and code.
+- 🧩 Building AI copilots and intelligent workflow automation.
+- 🔐 Designing secure RAG systems and retrieval pipelines.
+- 📈 Improving reliability, evaluation, and production readiness for AI applications.
+- 🕸️ Exploring agentic AI, prompt engineering, and MCP-based workflows.
+- 📝 Sharing practical AI engineering projects and technical learnings.
 
-## Connect With Me
+## 📊 GitHub Stats
 
-- Portfolio
-- LinkedIn: [https://www.linkedin.com/in/pramod-kokadwar/]
-- GitHub: [https://github.com/PramodKokadwar]
-- Email: [pramodkokadwar@gmail.com]
-- X : https://x.com/pramodkokadwar
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PramodKokadwar&show_icons=true&theme=default&hide_border=true" alt="Pramod's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodKokadwar&layout=compact&theme=default&hide_border=true" alt="Pramod's top languages" />
+</div>
 
