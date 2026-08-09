@@ -12,9 +12,9 @@
 
 I build practical AI systems that connect large language models with reliable data, business workflows, and backend services. My focus includes retrieval-augmented generation, AI copilots, agentic workflows, text-to-SQL applications, and production-oriented automation.
 
-## 🧑‍💻 About Me
-
 <img align="right" width="220" src="assets/coding-animation.svg" alt="Animated illustration of a character typing code on a laptop" />
+
+## 🧑‍💻 About Me
 
 - 🤖 I build LLM-powered applications, retrieval pipelines, and AI copilots.
 - 🐍 I develop Python APIs and backend services for practical AI products.
