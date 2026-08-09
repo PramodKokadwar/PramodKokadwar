@@ -14,11 +14,15 @@ I build practical AI systems that connect large language models with reliable da
 
 ## 🧑‍💻 About Me
 
+<img align="right" width="220" src="assets/coding-animation.svg" alt="Animated illustration of a character typing code on a laptop" />
+
 - 🤖 I build LLM-powered applications, retrieval pipelines, and AI copilots.
 - 🐍 I develop Python APIs and backend services for practical AI products.
 - 🔎 I work with RAG, hybrid retrieval, embeddings, prompt engineering, and guardrails.
 - 📚 I am exploring agentic AI, LangGraph, MCP, and evaluation workflows.
 - ✅ I bring a strong software testing and automation mindset to AI application quality and reliability.
+
+<br clear="right" />
 
 ## 🛠️ Technical Focus
 

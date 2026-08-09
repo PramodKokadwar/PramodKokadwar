@@ -1,0 +1,44 @@
+<svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated illustration of a character typing code on a laptop">
+  <style>
+    .eye { animation: blink 4s infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 96% { transform: scaleY(0.1); } }
+    .hand { animation: type 0.6s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+    .handR { animation-delay: 0.3s; }
+    @keyframes type { from { transform: translateY(0); } to { transform: translateY(4px); } }
+    .cursor { animation: cblink 1s steps(1) infinite; }
+    @keyframes cblink { 50% { opacity: 0; } }
+    .codeline { animation: grow 3s ease-in-out infinite; transform-box: fill-box; transform-origin: left; }
+    .cl1 { animation-delay: 0s; }
+    .cl2 { animation-delay: 0.5s; }
+    .cl3 { animation-delay: 1s; }
+    @keyframes grow { 0% { transform: scaleX(0); } 40%, 90% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+  </style>
+
+  <rect x="20" y="210" width="260" height="10" rx="4" fill="#1B263B"/>
+
+  <rect x="90" y="150" width="120" height="70" rx="6" fill="#0D1B2A" stroke="#2575FC" stroke-width="2"/>
+  <rect x="98" y="158" width="104" height="46" rx="3" fill="#070B14"/>
+  <rect class="codeline cl1" x="104" y="166" width="60" height="6" rx="2" fill="#8A2BE2"/>
+  <rect class="codeline cl2" x="104" y="178" width="80" height="6" rx="2" fill="#2575FC"/>
+  <rect class="codeline cl3" x="104" y="190" width="45" height="6" rx="2" fill="#8A2BE2"/>
+  <rect class="cursor" x="104" y="196" width="6" height="8" fill="#ffffff"/>
+
+  <path d="M120 220 Q150 190 180 220 L180 240 Q150 250 120 240 Z" fill="#2575FC"/>
+
+  <circle class="hand handL" cx="108" cy="200" r="8" fill="#F1C27D"/>
+  <circle class="hand handR" cx="168" cy="200" r="8" fill="#F1C27D"/>
+
+  <circle cx="150" cy="140" r="34" fill="#FFE0BD"/>
+
+  <path d="M116 130 Q120 90 150 92 Q180 90 184 130 Q170 108 150 110 Q130 108 116 130 Z" fill="#1B263B"/>
+  <path d="M120 128 L112 152 Q118 138 124 132 Z" fill="#1B263B"/>
+  <path d="M180 128 L188 152 Q182 138 176 132 Z" fill="#1B263B"/>
+
+  <ellipse class="eye" cx="138" cy="142" rx="5" ry="7" fill="#0D1B2A"/>
+  <ellipse class="eye" cx="162" cy="142" rx="5" ry="7" fill="#0D1B2A"/>
+
+  <circle cx="130" cy="152" r="4" fill="#FF9AA2" opacity="0.5"/>
+  <circle cx="170" cy="152" r="4" fill="#FF9AA2" opacity="0.5"/>
+
+  <path d="M144 156 Q150 160 156 156" stroke="#0D1B2A" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>
